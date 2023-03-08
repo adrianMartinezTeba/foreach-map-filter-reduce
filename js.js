@@ -259,6 +259,6 @@ console.log(hacerFrase);
 
 // reduce es para trabajar sobre el anterior,
 // map es como un bucle que te lo mete todo en un Array auto es mas o menos una forma de hacer ppush automatica mas o menos
-// foreach es otro bucle que recorre un array
+// foreach es otro bucle que recorre un array como for o forof,no te lo mete dentro del array te lo deja fuera y el map te lo mete dentro
 // estos dos ultimos si quiero escribir algun tipo de condicion tengo que abrir llaves tras la flecha de la funcion solo se pone arriba para el filter
 // el filter lo que hace es filtrar en un array dandole tu la condicion por lo que veo se usa de la mano con map para meter los objetos en un array
